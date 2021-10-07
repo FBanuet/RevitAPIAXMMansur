@@ -1,0 +1,16 @@
+C:\Users\username\source\repos\Algoritmia\Algoritmia\bin\Debug\net5.0\Algoritmia.exe
+C:\Users\username\source\repos\Algoritmia\Algoritmia\bin\Debug\net5.0\Algoritmia.deps.json
+C:\Users\username\source\repos\Algoritmia\Algoritmia\bin\Debug\net5.0\Algoritmia.runtimeconfig.json
+C:\Users\username\source\repos\Algoritmia\Algoritmia\bin\Debug\net5.0\Algoritmia.runtimeconfig.dev.json
+C:\Users\username\source\repos\Algoritmia\Algoritmia\bin\Debug\net5.0\Algoritmia.dll
+C:\Users\username\source\repos\Algoritmia\Algoritmia\bin\Debug\net5.0\ref\Algoritmia.dll
+C:\Users\username\source\repos\Algoritmia\Algoritmia\bin\Debug\net5.0\Algoritmia.pdb
+C:\Users\username\source\repos\Algoritmia\Algoritmia\obj\Debug\net5.0\Algoritmia.csproj.AssemblyReference.cache
+C:\Users\username\source\repos\Algoritmia\Algoritmia\obj\Debug\net5.0\Algoritmia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\username\source\repos\Algoritmia\Algoritmia\obj\Debug\net5.0\Algoritmia.AssemblyInfoInputs.cache
+C:\Users\username\source\repos\Algoritmia\Algoritmia\obj\Debug\net5.0\Algoritmia.AssemblyInfo.cs
+C:\Users\username\source\repos\Algoritmia\Algoritmia\obj\Debug\net5.0\Algoritmia.csproj.CoreCompileInputs.cache
+C:\Users\username\source\repos\Algoritmia\Algoritmia\obj\Debug\net5.0\Algoritmia.dll
+C:\Users\username\source\repos\Algoritmia\Algoritmia\obj\Debug\net5.0\ref\Algoritmia.dll
+C:\Users\username\source\repos\Algoritmia\Algoritmia\obj\Debug\net5.0\Algoritmia.pdb
+C:\Users\username\source\repos\Algoritmia\Algoritmia\obj\Debug\net5.0\Algoritmia.genruntimeconfig.cache
